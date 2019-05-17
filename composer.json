@@ -1,5 +1,5 @@
 {
-    "name": "geoffselby/puzzle-plain-preset",
+    "name": "geoffselby/puzzle-prelaunch-preset",
     "description": "A modern, minimal prelaunch preset for Jigsaw powered by Tailwind CSS",
     "keywords": ["jigsaw","puzzle cli"],
     "license": "MIT",
