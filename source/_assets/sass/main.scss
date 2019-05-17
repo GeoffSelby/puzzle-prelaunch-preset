@@ -1,0 +1,12 @@
+@tailwind base;
+
+div.mce_inline_error:last-of-type {
+  background-color: transparent !important;
+  color: theme('colors.red.500') !important;
+  font-weight: 400 !important;
+  font-size: theme('fontSize.sm') !important;
+}
+
+@tailwind components;
+
+@tailwind utilities;
